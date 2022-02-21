@@ -1,2 +1,2 @@
-# SDMExam
+# Contoso
 Creating repository for Exam
